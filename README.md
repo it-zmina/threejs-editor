@@ -14,7 +14,12 @@
 
 ## Step 3
 
-- Add second sphere as children of first one.
+- Add second sphere as children (descendant) of first one.
 - Add image map to the secon sphere
 - Press Play menu item for starting animation.
 
+## Step 4
+
+- Press Publish menu item and save archive to local machine.
+- Extract dowloaded achive to your folder.
+- Launch local server with command `npx serve` from folder with extracted files.
